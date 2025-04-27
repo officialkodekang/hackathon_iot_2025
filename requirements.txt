@@ -1,0 +1,11 @@
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+fastapi>=0.95.0
+python-multipart>=0.0.6
+uvicorn>=0.22.0
+requests>=2.28.0
+python-dateutil>=2.8.2
+# For Raspberry Pi client
+RPi.GPIO>=0.7.0  # Only needed on Raspberry Pi
+# picamera2  # Only install on Raspberry Pi
